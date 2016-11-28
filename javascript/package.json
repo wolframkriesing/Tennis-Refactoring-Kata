@@ -1,0 +1,14 @@
+{
+  "name": "tennis-refactoring-kata",
+  "version": "0.0.0",
+  "description": "Tests are available to be run both with node.js and in the browser. For node, simply call   node TennisTest.js (Only failures will be shown on the console)",
+  "main": "TennisGame1.js",
+  "scripts": {
+    "test": "mocha TennisTest.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
